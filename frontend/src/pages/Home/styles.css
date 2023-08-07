@@ -1,0 +1,9 @@
+.home-container {
+  padding: 10px;
+}
+
+@media (min-width: 576px) {
+  .home-container {
+    padding: 40px;
+  }
+}
