@@ -15,3 +15,9 @@
     margin-bottom: 40px;
   }
 }
+
+@media (min-width: 992px) {
+  .home-container {
+    padding: 40px 40px 10px 40px;
+  }
+}

@@ -1,4 +1,4 @@
-export type Stores = {
+export type Store = {
   id: number;
   name: string;
 };
