@@ -20,10 +20,10 @@ especificada. (Desenvolvido apenas o front-end)
 - Maven
   
 ## Front end
-- HTML / CSS / JS / TypeScript
+- HTML / CSS / TS / TypeScript
 - React
 - Apex Charts
-
+- Bootstrap
 # Como executar o projeto
 
 ## Back end
